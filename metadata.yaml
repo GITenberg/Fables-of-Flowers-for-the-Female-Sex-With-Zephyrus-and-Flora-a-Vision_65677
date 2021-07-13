@@ -1,0 +1,26 @@
+_repo: Fables-of-Flowers-for-the-Female-Sex-With-Zephyrus-and-Flora-a-Vision_65677
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wynne, John Huddlestone
+    alias: Wynne, J. H. (John Huddlestone)
+    birthdate: 1743
+    deathdate: 1788
+    gutenberg_agent_id: '53455'
+    url: http://www.gutenberg.org/2009/agents/53455
+description: ''
+gutenberg_issued: '2021-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65677'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Flowers -- Poetry'
+- !lcsh 'Fables'
+- GITenberg
+title: Fables of Flowers for the Female Sex. With Zephyrus and Flora, a Vision
+url: http://www.gutenberg.org/ebooks/65677
