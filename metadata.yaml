@@ -1,5 +1,8 @@
 _repo: Fables-of-Flowers-for-the-Female-Sex-With-Zephyrus-and-Flora-a-Vision_65677
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65677-h/images/cover.jpg
 creator:
   author:
     agent_name: Wynne, John Huddlestone
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53455'
     url: http://www.gutenberg.org/2009/agents/53455
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65677#Fables-of-Flowers-for-the-Female-Sex-With-Zephyrus-and-Flora-a-Vision
 gutenberg_issued: '2021-06-23'
 gutenberg_type: Text
 identifiers:
